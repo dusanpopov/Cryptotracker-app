@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cryptotracker-app/static/css/main.c0276807.chunk.css",
+    "main.js": "/Cryptotracker-app/static/js/main.36ee8860.chunk.js",
+    "main.js.map": "/Cryptotracker-app/static/js/main.36ee8860.chunk.js.map",
+    "runtime-main.js": "/Cryptotracker-app/static/js/runtime-main.4b7bc0ad.js",
+    "runtime-main.js.map": "/Cryptotracker-app/static/js/runtime-main.4b7bc0ad.js.map",
+    "static/js/2.3f9f098a.chunk.js": "/Cryptotracker-app/static/js/2.3f9f098a.chunk.js",
+    "static/js/2.3f9f098a.chunk.js.map": "/Cryptotracker-app/static/js/2.3f9f098a.chunk.js.map",
+    "index.html": "/Cryptotracker-app/index.html",
+    "precache-manifest.b43c20d8876b1c30335189128af4332a.js": "/Cryptotracker-app/precache-manifest.b43c20d8876b1c30335189128af4332a.js",
+    "service-worker.js": "/Cryptotracker-app/service-worker.js",
+    "static/css/main.c0276807.chunk.css.map": "/Cryptotracker-app/static/css/main.c0276807.chunk.css.map",
+    "static/js/2.3f9f098a.chunk.js.LICENSE.txt": "/Cryptotracker-app/static/js/2.3f9f098a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b7bc0ad.js",
+    "static/js/2.3f9f098a.chunk.js",
+    "static/css/main.c0276807.chunk.css",
+    "static/js/main.36ee8860.chunk.js"
+  ]
+}
