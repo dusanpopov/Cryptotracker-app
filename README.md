@@ -1,4 +1,4 @@
-Track current market values of the most popular cryptocurrencies. 📈
+Track current market values of the most popular cryptocurrencies. 📈💸
 
 Made with React and Axios.
 
