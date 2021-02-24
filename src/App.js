@@ -14,7 +14,6 @@ function App() {
       setCoins(response.data);
     },).catch(error => console.log(error))
   }
-
   useEffect(() => {
     getCoins();
   }, []);
