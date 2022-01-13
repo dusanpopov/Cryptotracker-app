@@ -28,6 +28,4 @@ function Coin({name,image,symbol,price,volume,priceChange,marketcap}) {
   );
 };
     
-
-
 export default Coin
