@@ -18,7 +18,6 @@ function Coin({name,image,symbol,price,volume,priceChange,marketcap}) {
           ) : (
             <p className='coin-percent green'>{priceChange.toFixed(2)}%</p>
           )}
-
           <p className='coin-marketcap'>
             Mkt Cap: ${marketcap.toLocaleString()}
           </p>
@@ -27,5 +26,4 @@ function Coin({name,image,symbol,price,volume,priceChange,marketcap}) {
     </div>
   );
 };
-    
 export default Coin
